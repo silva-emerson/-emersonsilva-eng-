@@ -15,5 +15,5 @@ Graduando em Engenharia Elétrica e desenvolvedor com interesse em automação, 
 
 ## 📫 Contato
 - **LinkedIn:**
-[https://www.linkedin.com/in/emersonsilva-eng]
+[https://www.linkedin.com/in/araujo-emerson]
 - **Email:** emersonsilva.projects@gmail.com
