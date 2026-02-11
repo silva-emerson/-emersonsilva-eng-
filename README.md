@@ -1,6 +1,6 @@
-# Olá! 👋 Eu sou Émerson Silva
+# Olá! 👋 Eu sou Émerson Araújo
 
-Graduando em Engenharia Mecânica e desenvolvedor com interesse em automação, programação e projetos tecnológicos. Busco aplicar conhecimentos de engenharia, eletrônica e programação em soluções práticas e inovadoras.
+Graduando em Engenharia Elétrica e desenvolvedor com interesse em automação, programação e projetos tecnológicos. Busco aplicar conhecimentos de engenharia, eletrônica e programação em soluções práticas e inovadoras.
 
 ## 🔧 Tecnologias e Skills
 - **Linguagens:** Python, C/C++, C#, Java, Go, JavaScript/TypeScript
@@ -16,4 +16,4 @@ Graduando em Engenharia Mecânica e desenvolvedor com interesse em automação, 
 ## 📫 Contato
 - **LinkedIn:**
 [https://www.linkedin.com/in/araujo-emerson]
-- **Email:** emersonsilva.projects@gmail.com
+- **Email:** araujoemerson.projects@gmail.com
