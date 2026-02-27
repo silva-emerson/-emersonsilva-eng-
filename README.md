@@ -14,5 +14,5 @@ Graduando em Engenharia Civil e desenvolvedor, explorando projetos de **automaç
 - Simulações estruturais com MATLAB e Robot
 
 ## 📫 Contato
-- **LinkedIn:** [linkedin.com/in/emersonsilva-engcivil].
+- **LinkedIn:** [linkedin.com/in/emersonaraujo-civil].
 - **Email:** araujoemerson.projects@gmail.com
