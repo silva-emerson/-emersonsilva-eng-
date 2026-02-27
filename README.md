@@ -1,19 +1,18 @@
 # Olá! 👋 Eu sou Émerson Araújo
 
-Graduando em Engenharia Elétrica e desenvolvedor com interesse em automação, programação e projetos tecnológicos. Busco aplicar conhecimentos de engenharia, eletrônica e programação em soluções práticas e inovadoras.
+Graduando em Engenharia Civil e desenvolvedor, explorando projetos de **automação, BIM, análise de dados e engenharia digital**.
 
 ## 🔧 Tecnologias e Skills
 - **Linguagens:** Python, C/C++, C#, Java, Go, JavaScript/TypeScript
-- **Web:** HTML, CSS, Angular, Node.js, React.js
-- **Banco de Dados:** SQL, MongoDB, PostgreSQL
-- **Automação e Engenharia:** MATLAB, Simulink, Eletrônica, Sistemas de Controle
-- **Inteligência Artificial:** Machine Learning, Redes Neurais
+- **Web / Full-Stack:** HTML, CSS, Angular, Node.js, React.js
+- **Engenharia & Automação:** MATLAB, Simulink, AutoCAD Civil 3D, BIM
+- **Dados & BI:** Microsoft Excel, Power BI, SQL, MongoDB, PostgreSQL, Dashboards
 
-## 🚀 Projetos e Estudos
-- Atualmente criando projetos acadêmicos e pessoais em automação, programação e desenvolvimento full-stack.  
-- Em breve compartilharei projetos completos e estudos aplicados.
+## 🚀 Projetos
+- Projeto de automação de processos de obra
+- Dashboard de análise de dados de projetos acadêmicos
+- Simulações estruturais com MATLAB e Robot
 
 ## 📫 Contato
-- **LinkedIn:**
-[https://www.linkedin.com/in/araujo-emerson]
+- **LinkedIn:** [linkedin.com/in/emersonsilva-engcivil].
 - **Email:** araujoemerson.projects@gmail.com
