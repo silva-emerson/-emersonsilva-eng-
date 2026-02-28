@@ -16,6 +16,5 @@ Graduando em Engenharia Elétrica e bacharel em Ciência da Computação, explor
 - Plataforma digital de Engenharia Elétrica (organização de conteúdos técnicos e automação de informações)
 
 📫 Contato
-LinkedIn: [linkedin.com/in/emersonaraujo-eletrica]
-Email: araujoemerson.projects@gmail.com
-GitHub: Em breve com todos os projetos publicados
+- LinkedIn: [linkedin.com/in/emersonaraujo-eletrica]
+- Email: araujoemerson.projects@gmail.com
