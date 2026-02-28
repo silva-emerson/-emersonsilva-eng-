@@ -1,18 +1,21 @@
-# Olá! 👋 Eu sou Émerson Araújo
+Olá! 👋 Eu sou Émerson Araújo
 
-Graduando em Engenharia Civil e desenvolvedor, explorando projetos de **automação, BIM, análise de dados e engenharia digital**.
+Graduando em Engenharia Elétrica e bacharel em Ciência da Computação, explorando projetos de automação, eletrônica, sistemas inteligentes e análise de dados aplicados à engenharia.
 
-## 🔧 Tecnologias e Skills
-- **Linguagens:** Python, C/C++, C#, Java, Go, JavaScript/TypeScript
-- **Web / Full-Stack:** HTML, CSS, Angular, Node.js, React.js
-- **Engenharia & Automação:** MATLAB, Simulink, AutoCAD Civil 3D, BIM
-- **Dados & BI:** Microsoft Excel, Power BI, SQL, MongoDB, PostgreSQL, Dashboards
+💡 Em breve, estarei publicando meus projetos no GitHub, mostrando aplicações práticas, códigos e simulações desenvolvidas durante meus estudos.
 
-## 🚀 Projetos
-- Projeto de automação de processos de obra
-- Dashboard de análise de dados de projetos acadêmicos
-- Simulações estruturais com MATLAB e Robot
+🔧 Tecnologias e Skills
+- Linguagens: Python, C/C++, C#, Java, Go, JavaScript/TypeScript
+- Web / Full-Stack: HTML, CSS, Angular, Node.js, React.js
+- Engenharia & Automação: MATLAB, Simulink, AutoCAD Electrical, sistemas de controle, automação industrial
+- Dados & BI: Microsoft Excel, Power BI, SQL, MongoDB, PostgreSQL, Dashboards
 
-## 📫 Contato
-- **LinkedIn:** [linkedin.com/in/emersonaraujo-civil].
-- **Email:** araujoemerson.projects@gmail.com
+🚀 Projetos
+- Conversor DC-DC 5V → 48V (phantom power para equipamentos eletrônicos)
+- Sistema de rastreamento solar de dois eixos (otimização de energia fotovoltaica)
+- Plataforma digital de Engenharia Elétrica (organização de conteúdos técnicos e automação de informações)
+
+📫 Contato
+LinkedIn: [linkedin.com/in/emersonaraujo-eletrica]
+Email: araujoemerson.projects@gmail.com
+GitHub: Em breve com todos os projetos publicados
