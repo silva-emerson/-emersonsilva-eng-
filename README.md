@@ -20,5 +20,7 @@ Dados & BI: Microsoft Excel, SQL, Power BI, Dashboards
 • Chassi de Veículo Elétrico Otimizado: estrutura leve e resistente, integração com sistemas de propulsão elétrica e controle eletrônico
 
 📫 Contato
+
 LinkedIn: [linkedin.com/in/emerson-araujo-br]
+
 Email: araujoemerson.projects@gmail.com
