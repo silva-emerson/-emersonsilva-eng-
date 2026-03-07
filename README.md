@@ -2,7 +2,7 @@ Olá! 👋 Eu sou Émerson Araújo
 
 Graduando em Engenharia Elétrica e bacharel em Ciência da Computação, com formação técnica em Eletrotécnica e Mecânica Industrial. Tenho interesse em projetos que integram eletrônica, sistemas elétricos, automação, robótica e análise de dados, conectando hardware, software e controle em tempo real.
 
-💡 Neste GitHub compartilho projetos, protótipos, códigos, simulações e experimentos desenvolvidos durante meus estudos em engenharia e tecnologia.
+💡 Em breve estarei compartilhando neste GitHub meus projetos, protótipos, códigos, simulações e experimentos desenvolvidos durante meus estudos em engenharia e tecnologia.
 
 🔧 Tecnologias e Skills
 
@@ -14,7 +14,7 @@ Graduando em Engenharia Elétrica e bacharel em Ciência da Computação, com fo
 
 • Dados & Análise: Microsoft Excel, SQL, Power BI, visualização de dados e dashboards
 
-🚀 Projetos
+🚀 Projetos (em desenvolvimento – em breve disponíveis no GitHub)
 
 • Sistema de Rastreamento Solar Dual Axis: desenvolvimento de sistema com sensores e motores para ajustar automaticamente a posição de painéis solares, maximizando a captação de energia ao longo do dia.
 
@@ -24,6 +24,6 @@ Graduando em Engenharia Elétrica e bacharel em Ciência da Computação, com fo
 
 📫 Contato
 
-LinkedIn: linkedin.com/in emerson-araujo-br
+LinkedIn: linkedin.com/in/emerson-araujo-br
 
-Email:araujoemerson.projects@gmail.com
+Email: araujoemerson.projects@gmail.com
