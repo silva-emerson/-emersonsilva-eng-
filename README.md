@@ -5,7 +5,9 @@ Graduando em Engenharia Mecânica e bacharel em Ciência da Computação, explor
 💡 Em breve, estarei publicando meus projetos no GitHub, mostrando protótipos, códigos, simulações e experimentos desenvolvidos durante meus estudos.
 
 🔧 Tecnologias e Skills
+
 • Engenharia & Mecânica: SolidWorks, AutoCAD, CATIA, Fusion 360, análise de sistemas mecânicos, controle de máquinas, automação industrial, robótica e sistemas embarcados
+
 • Programação & Software: Python, C/C++, C#, Java, Go, JavaScript/TypeScript, MATLAB, Simulink, LabVIEW
 Dados & BI: Microsoft Excel, SQL, Power BI, Dashboards
 
