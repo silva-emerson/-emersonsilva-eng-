@@ -12,7 +12,9 @@ Dados & BI: Microsoft Excel, SQL, Power BI, Dashboards
 🚀 Projetos
 
 • Manipulador Inteligente Controlado por Voz: integração mecânica, elétrica e software para movimentos precisos por comando de voz 
+
 • Robô Autônomo Seguidor de Linha com Navegação Inteligente: chassi mecânico, sensores ópticos e algoritmos de navegação em tempo real
+
 • Chassi de Veículo Elétrico Otimizado: estrutura leve e resistente, integração com sistemas de propulsão elétrica e controle eletrônico
 
 📫 Contato
