@@ -1,26 +1,29 @@
 Olá! 👋 Eu sou Émerson Araújo
 
-Graduando em Engenharia Mecânica e bacharel em Ciência da Computação, explorando projetos de mecatrônica, robótica, mobilidade elétrica, automação e integração de sistemas físicos e digitais.
+Graduando em Engenharia Elétrica e bacharel em Ciência da Computação, com formação técnica em Eletrotécnica e Mecânica Industrial. Tenho interesse em projetos que integram eletrônica, sistemas elétricos, automação, robótica e análise de dados, conectando hardware, software e controle em tempo real.
 
-💡 Em breve, estarei publicando meus projetos no GitHub, mostrando protótipos, códigos, simulações e experimentos desenvolvidos durante meus estudos.
+💡 Neste GitHub compartilho projetos, protótipos, códigos, simulações e experimentos desenvolvidos durante meus estudos em engenharia e tecnologia.
 
 🔧 Tecnologias e Skills
 
-• Engenharia & Mecânica: SolidWorks, AutoCAD, CATIA, Fusion 360, análise de sistemas mecânicos, controle de máquinas, automação industrial, robótica e sistemas embarcados
+• Engenharia Elétrica & Automação: análise de circuitos, eletrônica analógica e digital, sistemas de potência, automação industrial, controle de sistemas, robótica e sistemas embarcados
 
-• Programação & Software: Python, C/C++, C#, Java, Go, JavaScript/TypeScript, MATLAB, Simulink, LabVIEW
-Dados & BI: Microsoft Excel, SQL, Power BI, Dashboards
+• Ferramentas de Engenharia: AutoCAD, MATLAB, Simulink, LabVIEW, simulação de circuitos e sistemas elétricos
+
+• Programação & Software: Python, C/C++, C#, Java, Go, JavaScript/TypeScript
+
+• Dados & Análise: Microsoft Excel, SQL, Power BI, visualização de dados e dashboards
 
 🚀 Projetos
 
-• Manipulador Inteligente Controlado por Voz: integração mecânica, elétrica e software para movimentos precisos por comando de voz 
+• Sistema de Rastreamento Solar Dual Axis: desenvolvimento de sistema com sensores e motores para ajustar automaticamente a posição de painéis solares, maximizando a captação de energia ao longo do dia.
 
-• Robô Autônomo Seguidor de Linha com Navegação Inteligente: chassi mecânico, sensores ópticos e algoritmos de navegação em tempo real
+• Solução de Carregamento para Baterias de Veículos Elétricos: estudo e implementação de conversores DC-DC e estratégias de controle para otimizar o carregamento e eficiência energética em sistemas de mobilidade elétrica.
 
-• Chassi de Veículo Elétrico Otimizado: estrutura leve e resistente, integração com sistemas de propulsão elétrica e controle eletrônico
+• Sistema de Automação Industrial Controlado por Joystick: integração de sensores, CLPs e motores elétricos para controle de máquinas industriais, aplicando conceitos de automação e controle em tempo real.
 
 📫 Contato
 
-LinkedIn: [linkedin.com/in/emerson-araujo-br]
+LinkedIn: linkedin.com/in emerson-araujo-br
 
-Email: araujoemerson.projects@gmail.com
+Email:araujoemerson.projects@gmail.com
