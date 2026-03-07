@@ -1,20 +1,19 @@
 Olá! 👋 Eu sou Émerson Araújo
 
-Graduando em Engenharia Elétrica e bacharel em Ciência da Computação, explorando projetos de automação, eletrônica, sistemas inteligentes e análise de dados aplicados à engenharia.
+Graduando em Engenharia Mecânica e bacharel em Ciência da Computação, explorando projetos de mecatrônica, robótica, mobilidade elétrica, automação e integração de sistemas físicos e digitais.
 
-💡 Em breve, estarei publicando meus projetos no GitHub, mostrando aplicações práticas, códigos e simulações desenvolvidas durante meus estudos.
+💡 Em breve, estarei publicando meus projetos no GitHub, mostrando protótipos, códigos, simulações e experimentos desenvolvidos durante meus estudos.
 
 🔧 Tecnologias e Skills
-- Linguagens: Python, C/C++, C#, Java, Go, JavaScript/TypeScript
-- Web / Full-Stack: HTML, CSS, Angular, Node.js, React.js
-- Engenharia & Automação: MATLAB, Simulink, AutoCAD Electrical, sistemas de controle, automação industrial
-- Dados & BI: Microsoft Excel, Power BI, SQL, MongoDB, PostgreSQL, Dashboards
+Engenharia & Mecânica: SolidWorks, AutoCAD, CATIA, Fusion 360, análise de sistemas mecânicos, controle de máquinas, automação industrial, robótica e sistemas embarcados
+Programação & Software: Python, C/C++, C#, Java, Go, JavaScript/TypeScript, MATLAB, Simulink, LabVIEW
+Dados & BI: Microsoft Excel, SQL, Power BI, Dashboards
 
 🚀 Projetos
-- Conversor DC-DC 5V → 48V (phantom power para equipamentos eletrônicos)
-- Sistema de rastreamento solar de dois eixos (otimização de energia fotovoltaica)
-- Plataforma digital de Engenharia Elétrica (organização de conteúdos técnicos e automação de informações)
+Manipulador Inteligente Controlado por Voz – integração mecânica, elétrica e software para movimentos precisos por comando de voz
+Robô Seguidor de Linha Autônomo – chassi mecânico, sensores ópticos e algoritmos de navegação em tempo real
+Chassi de Veículo Elétrico Otimizado – estrutura leve e resistente, integração com sistemas de propulsão elétrica e controle eletrônico
 
 📫 Contato
-- LinkedIn: [linkedin.com/in/emersonaraujo-eletrica]
-- Email: araujoemerson.projects@gmail.com
+LinkedIn: [linkedin.com/in/emerson-araujo-br]
+Email: araujoemerson.projects@gmail.com
