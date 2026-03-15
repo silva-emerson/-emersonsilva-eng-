@@ -26,4 +26,5 @@ Estudante de Engenharia Mecânica e bacharel em Sistemas de Informação, com fo
 📫 Contato
 
 LinkedIn: linkedin.com/in/emerson-araujo-br
+
 Email: emersonaraujo.projects@gmail.com
