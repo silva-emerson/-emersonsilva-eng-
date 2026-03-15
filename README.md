@@ -7,15 +7,20 @@ Estudante de Engenharia Mecânica e bacharel em Sistemas de Informação, com fo
 🔧 Tecnologias e competências
 
 • Engenharia e Sistemas: sistemas mecânicos, automação industrial, sistemas eletromecânicos e integração entre hardware e software
+
 • Ferramentas de Engenharia: AutoCAD, SolidWorks, MATLAB, Simulink e modelagem de sistemas
+
 • Programação e Software: Python, C/C++, C#, Java, JavaScript e TypeScript
 • Dados e Análise: SQL, Excel e Power BI
 
 🚀 Projetos (em desenvolvimento – em breve disponíveis)
 
 • Plataforma Educacional em Engenharia Mecânica
+
 • Sistema Mecânico de Transmissão de Potência
+
 • Sistema Eletromecânico Automatizado
+
 • Simulação de Transferência de Calor em Sistema Térmico
 
 📫 Contato
