@@ -38,5 +38,5 @@ Sou um especialista híbrido que atua na interseção entre a **Ciência da Comp
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://linkedin.com/in/araujo-emerson)
-[![Email](emersonaraujo.projects@gmail.com)
+[LinkedIn](https://linkedin.com/in/araujo-emerson)
+[Email](emersonaraujo.projects@gmail.com)
